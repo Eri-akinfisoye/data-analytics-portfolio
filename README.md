@@ -1,8 +1,6 @@
-#  I'm Erioluwa Akinfisoye 👋
+#  I'm Erioluwa Akinfisoye 
 
-I'm a self-taught data analyst and final-year Mechanical Engineering student at the Federal University of Technology Akure (FUTA), maintaining a First Class CGPA. I transitioned into data analytics because I realised that the ability to find meaning in data is the most transferable skill I could build — regardless of industry.
-
-My engineering background shapes how I work with data: I think in systems, I care about root causes, and I'm most interested in problems where the numbers connect directly to real-world outcomes.
+I am a data analyst with a background in Mechanical Engineering, currently in my final year at the Federal University of Technology Akure (First Class). I specialise in translating raw data into clear, actionable insight — with particular interest in manufacturing, operations, and business intelligence. My engineering training informs how I approach analytical problems: methodically, with attention to causality and system behaviour, not just surface-level patterns.
 
 ---
 

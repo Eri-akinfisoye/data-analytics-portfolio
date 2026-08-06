@@ -24,10 +24,10 @@ A full churn analysis for a fictional telecom company. Identified key churn driv
 
 ---
 
-### 🔷 FinSight — Customer & Transaction Analytics
+### 🔷 Bystack — Customer & Transaction Analytics
 **Tools:** PostgreSQL · SQL Server (SSMS)  
 A pure SQL analytics project modelling customer behaviour and transaction patterns for a retail bank. Covers segmentation, product adoption trends, and risk-flag queries. Deliberately SQL-only — no BI layer — to demonstrate query depth and data modelling thinking.  
-→ [View Project](https://github.com/Eri-akinfisoye/FinSight-Transaction-Analytics)
+→ [View Project](https://github.com/Eri-akinfisoye/Bystack_Retail_Bank_Commercial_Intelligence_and_Risk_Analysis)
 
 ---
 
@@ -35,14 +35,13 @@ A pure SQL analytics project modelling customer behaviour and transaction patter
 **Tools:** Power Apps · Power Automate · Power BI · SharePoint · Dataverse  
 Built a role-based KPI tracking and reporting system for cement manufacturing operations as part of the Dangote Cement Digital Challenge. Designed for five user roles across 15 operational KPIs spanning production, energy, quality, and maintenance.  
 **Result: Top 20 Finalist — National**  
-→ [View Project](https://github.com/Eri-akinfisoye/Dangote-Cement-Digital-KPI-)
+→ [View Project](https://github.com/Eri-akinfisoye/Dangote-Cement-Digital-KPI-Automation)
 
 ---
 
 ## 🎓 Background
 
 - **B.Eng. Mechanical Engineering** — Federal University of Technology Akure *( in view)*
-- **Public Health Diploma** — National Open University of Nigeria *(in progress)*
 - **Industrial Training (SIWES)** — Nigerian Breweries, Ibadan
 
 ---
